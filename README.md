@@ -108,3 +108,6 @@ PostgreSQL/MySQL for multi-user concurrency at scale.
 ## License
 
 Free to use and adapt for educational purposes.
+
+## prototype 
+https://youtu.be/dNCqzU8ZKYc?si=QUR7qZeHcgvkpUox
